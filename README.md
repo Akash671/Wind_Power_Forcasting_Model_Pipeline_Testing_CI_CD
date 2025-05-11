@@ -13,4 +13,4 @@ This project predicts wind turbine power output using Random Forest, XGBoost, an
 ## 🚀 To Run
 ```bash
 pip install -r requirements.txt
-python wind_forecasting_pipeline.py
+python main.py
